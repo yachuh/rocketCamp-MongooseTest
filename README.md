@@ -2,8 +2,14 @@
 
 火箭隊培訓營第九梯｜Node.js：Mongoose 練習
 
+## Overview
+實作 TodoList RESTful API
+- Backend: Node.js
+- Database: MongoDB Altas (with Mongoose)
+- Server: Heroku
+
 ## 作業內容
-- 設計一個 /posts 路由，並將 Post 拉初到 model 資料夾
+- 使用 Mongoose: 設計一個 /posts 路由，並將 Post 拉到 model 資料夾
 - 上傳 GitHub
 
 ## 作業成果
